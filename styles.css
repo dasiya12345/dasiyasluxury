@@ -1,0 +1,117 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(11,11,11,1.00) 0%,rgba(72,11,74,1.00) 27.46%,rgba(73,17,57,1.00) 60.62%,rgba(15,12,12,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(11,11,11,1.00) 0%,rgba(72,11,74,1.00) 27.46%,rgba(73,17,57,1.00) 60.62%,rgba(15,12,12,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(11,11,11,1.00) 0%,rgba(72,11,74,1.00) 27.46%,rgba(73,17,57,1.00) 60.62%,rgba(15,12,12,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(11,11,11,1.00) 0%,rgba(72,11,74,1.00) 27.46%,rgba(73,17,57,1.00) 60.62%,rgba(15,12,12,1.00) 100%);
+
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(63,24,173,1.00) 0%,rgba(205,178,178,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(63,24,173,1.00) 0%,rgba(205,178,178,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(63,24,173,1.00) 0%,rgba(205,178,178,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(63,24,173,1.00) 0%,rgba(205,178,178,1.00) 100%);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #311CB4;
+    background-color: #131010;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #E8E722;
+}
+.card.col-md-4.col-lg-11 .card-body .btn.btn-primary {
+    background-color: #E8E712;
+    color: #060606;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: underline;
+}
+.container-fluid .container .text-center {
+    color: #120505;
+    font-style: oblique;
+    text-decoration: none;
+}
+.container-fluid .container .text-center {
+    font-style: italic;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bold;
+    /* [disabled]font-size: medium; */
+    text-decoration: none;
+}
+
+
+#accordion1 .card #headingOne1 {
+    background-color: #1A5CD1;
+    color: #901515;
+}
+.col-lg-4 .card.col-md-4.col-lg-11 .card-img-top {
+    background-color: #D95B0F;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-11 {
+    background-color: #29C11D;
+}
+
+
+#headingOne1 .mb-0 a {
+    color: #0D0C0C;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #110F0F;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #060505;
+}
+
+
+
+#accordion1 .card #headingTwo1 {
+    -webkit-box-shadow: 0px 0px #803637;
+    box-shadow: 0px 0px #803637;
+    background-color: #17C536;
+    color: #0B0A0A;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #DDF10D;
+    color: #0D0C0C;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #524F4A;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-11 {
+    background-color: #0B7314;
+}
+.col-lg-4 .card.col-md-4.col-lg-11 .card-body {
+    background-color: #F30E9C;
+}
+
+footer #accordion1 .card {
+    background-color: #0B3CF9;
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(35,56,221,1.00) 0%,rgba(33,179,67,1.00) 34.20%,rgba(190,229,45,1.00) 65.28%,rgba(46,30,185,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(35,56,221,1.00) 0%,rgba(33,179,67,1.00) 34.20%,rgba(190,229,45,1.00) 65.28%,rgba(46,30,185,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(35,56,221,1.00) 0%,rgba(33,179,67,1.00) 34.20%,rgba(190,229,45,1.00) 65.28%,rgba(46,30,185,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(35,56,221,1.00) 0%,rgba(33,179,67,1.00) 34.20%,rgba(190,229,45,1.00) 65.28%,rgba(46,30,185,1.00) 100%);
+}
+.carousel-inner .carousel-item .d-block.mx-auto {
+    background-color: #15AB34;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #0B0606;
+
+}
+
+#carouselExampleIndicators1 .carousel-inner .carousel-item.active {
+    background-color: #070707;
+}
+#carouselExampleIndicators1 .carousel-control-next .carousel-control-next-icon {
+    background-color: #261F1F;
+}
+#carouselExampleIndicators1 .carousel-control-prev .carousel-control-prev-icon {
+    background-color: #272424;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand .img-thumbnail {
+    border-color: #CBF411;
+}
